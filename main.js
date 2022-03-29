@@ -8,7 +8,7 @@ let loadImage=(src,callback)=>{
 };
 
 let imagePath=(frameNumber,animation)=>{
-    return "/MartialArts-Game/images/"+animation+"/"+frameNumber+".png";
+    return animation+"/"+frameNumber+".png";
 };
 
 let frames={
