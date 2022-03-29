@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.game{
+    font-family: sans-serif;
+    color:rgb(98, 243, 195);
+    text-align: center;
+    
+}
+body{
+    background-image: ulr("background.jpg");
+    background-position: center;
+}
+button{
+    color: rgb(218, 57, 250);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: blueviolet;
+    border-block-color: rgb(212, 187, 240);
+
+}
